@@ -1,0 +1,83 @@
+
+@import url("components/Image.css"); 
+
+
+h1 {
+  color: mistyrose;
+  font-size: 46px;
+  font-family: Helvetica;
+}
+
+h2 {
+  color: greenyellow;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+h3{
+  color: greenyellow;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+h4 {
+  color: greenyellow;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+h5 {
+  color: greenyellow;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+h6 {
+  color: greenyellow;
+  font-size: 20px;
+  font-family: Helvetica;
+}
+
+h4{
+  color: greenyellow;
+}
+
+ body {
+  background-color:
+#98D7C2
+}
+
+ body {
+font-family: sans-serif; 
+background-color: green greenyellow; 
+}
+
+h1, h2,h3 { 
+  font-family: sans-serif;
+
+  }
+
+.content {
+  background-color : hotpink;
+  padding: 30px; 
+  border-radius : 4px; 
+  box-shadow: 6px 6px 3 px black; 
+  }
+
+.contents {
+  background-color : skyblue;
+  padding: 30px; 
+  border-radius : 4px; 
+  box-shadow: 6px 6px 3 px black; 
+  }
+
+
+.contentss {
+  background-color : darkgreen;
+  padding: 30px; 
+  border-radius : 4px; 
+  box-shadow: 6px 6px 3 px black; 
+  }
+
+img { width: 100px;height: 900; border-radius: 50%; }
+
+.art { width :150 px; height : 75px;} 
+

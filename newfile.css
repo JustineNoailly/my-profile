@@ -1,0 +1,5 @@
+.containers{ width: 700px;
+	margin: 0 auto;
+	}
+
+	@media ( max-whidth : 960 px ) { /*for a screen < 960 px, this CSS will be read */ 
